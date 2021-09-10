@@ -1,0 +1,15 @@
+/Users/sukruakpinar/Desktop/Pratikler/degisken/bin/Debug/net5.0/degisken.deps.json
+/Users/sukruakpinar/Desktop/Pratikler/degisken/bin/Debug/net5.0/degisken.runtimeconfig.json
+/Users/sukruakpinar/Desktop/Pratikler/degisken/bin/Debug/net5.0/degisken.runtimeconfig.dev.json
+/Users/sukruakpinar/Desktop/Pratikler/degisken/bin/Debug/net5.0/degisken.dll
+/Users/sukruakpinar/Desktop/Pratikler/degisken/bin/Debug/net5.0/ref/degisken.dll
+/Users/sukruakpinar/Desktop/Pratikler/degisken/bin/Debug/net5.0/degisken.pdb
+/Users/sukruakpinar/Desktop/Pratikler/degisken/obj/Debug/net5.0/degisken.csproj.AssemblyReference.cache
+/Users/sukruakpinar/Desktop/Pratikler/degisken/obj/Debug/net5.0/degisken.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruakpinar/Desktop/Pratikler/degisken/obj/Debug/net5.0/degisken.AssemblyInfoInputs.cache
+/Users/sukruakpinar/Desktop/Pratikler/degisken/obj/Debug/net5.0/degisken.AssemblyInfo.cs
+/Users/sukruakpinar/Desktop/Pratikler/degisken/obj/Debug/net5.0/degisken.csproj.CoreCompileInputs.cache
+/Users/sukruakpinar/Desktop/Pratikler/degisken/obj/Debug/net5.0/degisken.dll
+/Users/sukruakpinar/Desktop/Pratikler/degisken/obj/Debug/net5.0/ref/degisken.dll
+/Users/sukruakpinar/Desktop/Pratikler/degisken/obj/Debug/net5.0/degisken.pdb
+/Users/sukruakpinar/Desktop/Pratikler/degisken/obj/Debug/net5.0/degisken.genruntimeconfig.cache
